@@ -1,0 +1,1 @@
+Contains a suite of tests for Apple's on-device ML models ("Apple Intelligence") and tests for some CoreML ports of other ML models. Used for ML engineering work done at narya.ai on the Mumble iOS app.
